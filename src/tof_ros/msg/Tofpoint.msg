@@ -1,0 +1,7 @@
+uint8 delidar_frame_start1
+uint8 delidar_frame_start2
+uint16 delidar_distance
+uint16 delidar_strength
+uint8 delidar_signal_devel
+uint8 delidar_time_exposed
+uint8 delidar_checksum
